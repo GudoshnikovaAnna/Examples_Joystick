@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANUTKA_13</Machine>
+    <WindowsUser>Anna</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>91c4b5cd-684f-43ba-8c70-488157d69c50</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\bin\Debug\GamepadSemester.exe">
+      <PackagePath>GamepadSemester.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\backArrow.png">
+      <PackagePath>Assets\backArrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\button.png">
+      <PackagePath>Assets\button.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\dPad.png">
+      <PackagePath>Assets\dPad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\joystick.png">
+      <PackagePath>Assets\joystick.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\settingsWheel.png">
+      <PackagePath>Assets\settingsWheel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\bin\Debug\GamepadPage.xbf">
+      <PackagePath>GamepadPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\bin\Debug\SettingsPage.xbf">
+      <PackagePath>SettingsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\bin\Debug\GamepadSemester.xr.xml">
+      <PackagePath>GamepadSemester.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anna\Documents\Study\application\GamepadSemester\GamepadSemester\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
